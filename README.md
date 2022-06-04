@@ -8,4 +8,4 @@
 
 실행하면 다음과 같은 결과가 나온다.
 ![KakaoTalk_20220604_125945305](https://user-images.githubusercontent.com/106548276/171981577-ded66262-97e7-464e-b3cb-86e6238f5e22.jpg)
-!<img src="https://user-images.githubusercontent.com/106548276/171981577-ded" width = "500" height="500">66262-97e7-464e-b3cb-86e6238f5e22.jpg" width = "500" height="500">
+!<img src="https://user-images.githubusercontent.com/106548276/171981577-ded66262-97e7-464e-b3cb-86e6238f5e22.jpg" width="30%" height="30%"/>
