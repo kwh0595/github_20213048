@@ -81,6 +81,7 @@ top -d 1
 |-l|긴 format으로 출력|
 |-p|특정 PID의 프로세스를 보여준다|
 |-u|특정 사용자의 프로세스를 보여준다|
+---
 
 ## 3) jobs 명령어
 
@@ -105,6 +106,7 @@ top -d 1
  |Stopped(SIGSTOP)|SIGSTOP 신호가 작업을 일시 중단|
  |Stopped(SIGTTIN)|SIGTTIN 신호가 작업을 일시 중단|
  |Stopped(SIGTTOU)|SIGTTOU 신호가 작업을 일시 중단|
+---
 
 ## 4) kill 명령어
 
@@ -131,6 +133,7 @@ kill -SIGKILL 12345
 kill -l
 ```
 -> kill 명령어에서 지원하는 시그널 목록을 출력
+---
 
 ## 5) 매크로 q 사용 방법 ( vim 에디터 )
 
