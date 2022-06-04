@@ -75,7 +75,7 @@ top -d 1
  -> 모든 프로세스를 풀 포맷으로 출력한 목록에서 grep을 이용해 seek이 포함된 행을 출력
 
 |필드 정보|
-|---|-----|
+|--------|
 |UID|User ID|
 |PUD|Process ID|
 |PPID|부모 Process ID|
