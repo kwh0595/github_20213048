@@ -9,4 +9,4 @@
    실행하면 다음과 같은 결과가 나온다.
 
 
-<img src="https://user-images.githubusercontent.com/106548276/171981577-ded66262-97e7-464e-b3cb-86e6238f5e22.jpg" width="60%" height="60%"/>
+   <img src="https://user-images.githubusercontent.com/106548276/171981577-ded66262-97e7-464e-b3cb-86e6238f5e22.jpg" width="60%" height="60%"/>
